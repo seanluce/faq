@@ -1,50 +1,50 @@
 <details>
-<summary>"Azure NetApp Files"</summary>
+<summary>Azure NetApp Files</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"Cloud Volumes Service (CVS) for AWS"</summary>
+<summary>Cloud Volumes Service (CVS) for AWS</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"Cloud Volumes Service (CVS) for GCP"</summary>
+<summary>Cloud Volumes Service (CVS) for GCP</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"Cloud Volumes ONTAP(CVO)"</summary>
+<summary>Cloud Volumes ONTAP(CVO)</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"Cloud Sync"</summary>
+<summary>Cloud Sync</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"Cloud Secure"</summary>
+<summary>Cloud Secure</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"Cloud Tiering"</summary>
+<summary>Cloud Tiering</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"SaaS Backup"</summary>
+<summary>SaaS Backup</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"Cloud Backup Service"</summary>
+<summary>Cloud Backup Service</summary>
 this is hidden
 </details>
 
 <details>
-<summary>"NetApp Kubernetes Service (NKS)"</summary>
+<summary>NetApp Kubernetes Service (NKS)</summary>
 this is hidden
 </details>
 
